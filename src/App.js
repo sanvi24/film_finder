@@ -2,7 +2,8 @@
 function App() {
   return (
     <div>
-      Film Finder
+      <h1>Film Finder</h1>
+      
     </div>
   );
 }
